@@ -1,0 +1,7 @@
+node_modules
+build/
+.openzeppelin/
+typechain-types/
+env
+.env
+coverage*
